@@ -21,7 +21,7 @@ const main = () => {
     // 20 / 5 = 4   // search via bing
     // mobile
     // 100 / 5 = 20
-    if (counter === 35) {
+    if (counter === 30) {
       clearInterval(intervalId);
     }
   }
