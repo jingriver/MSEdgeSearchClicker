@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/greybax/MSEdgeSearchClicker.git"
+    "url": "git+https://github.com/jingriver/MSEdgeSearchClicker.git"
   },
-  "author": "Aleksandr Filatov",
+  "author": "Frank Yang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/greybax/MSEdgeSearchClicker/issues"
+    "url": "https://github.com/jingriver/MSEdgeSearchClicker/issues"
   },
-  "homepage": "https://greybax.github.io/MSEdgeSearchClicker",
+  "homepage": "https://jingriver.github.io/MSEdgeSearchClicker",
   "dependencies": {
     "random-words": "^1.2.0"
   },
